@@ -1,0 +1,13 @@
+# 虚拟环境
+venv/
+env/
+
+# 本地数据库文件 (云端会自动生成，不需要传)
+*.db
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地 Streamlit 配置 (如果有)
+.streamlit/
